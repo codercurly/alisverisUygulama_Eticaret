@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358358760611",
+    "project_id": "grocery-dede-cin",
+    "storage_bucket": "grocery-dede-cin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358358760611:android:56d7788f16b953cfa19316",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358358760611-lk8ds7c07v47o2g9l4kdl0p8h0cbafmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJ2mlRIBjvlv1FSvialU8E5cv0m9LusM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358358760611-lk8ds7c07v47o2g9l4kdl0p8h0cbafmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
